@@ -1,5 +1,7 @@
 # Gemini-Go-Pro
-Developed by Gémis Technologies GT
+
+Developed by Gémis Technologies GT 
+
 ​Gemini Go Pro es un asistente inteligente avanzado para la gestión y enriquecimiento de comunidades en WhatsApp, integrando capacidades de Inteligencia Artificial para una interacción natural y funcional.
 
 𝗙𝗨𝗡𝗖𝗜𝗢𝗡𝗘𝗦 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗔𝗟𝗘𝗦
